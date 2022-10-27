@@ -1,0 +1,18 @@
+body {
+  background-color: #FFE6F7;
+  font-family: "Open Sans", sans-serif;
+}
+
+hr {
+  background-color: none;
+  border-style: dotted;
+  border-color: #C6C6C6;
+  border-width: 5px 0 0 0;
+  height: 2px;
+  width: 5%;
+}
+
+h1, h3 {
+  color: #937DC2;
+  font-family: Garamond, Georgia, serif;
+}
